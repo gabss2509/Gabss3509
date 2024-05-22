@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙💙
 
-Meu nome é nome  Gabrieli lima 
+Meu nome é nome  Gabrieli lima
 
 
 Estou estudando na Alura
